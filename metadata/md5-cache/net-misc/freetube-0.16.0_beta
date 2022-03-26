@@ -1,0 +1,7 @@
+DEFINED_PHASES=-
+DESCRIPTION=FreeTube is an open source desktop YouTube player built with privacy in mind.
+EAPI=8
+HOMEPAGE=https://freetubeapp.io/
+KEYWORDS=~amd64
+SLOT=0
+_md5_=43df9af35a30575c396b5524296f9bca

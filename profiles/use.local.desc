@@ -1,0 +1,12 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+sys-apps/fastfetch:pci - Enables reading GPU via sys-apps/pciutils
+sys-apps/fastfetch:vulkan - Enables reading GPU via media-libs/vulkan-loader
+sys-apps/fastfetch:xfce - Enables support for XFCE config
+sys-apps/fastfetch:xrandr - Enables support for Xrandr
+x11-misc/picom-jonaburg:config-file - Enable config file support
+x11-misc/picom-jonaburg:doc - Build documentation and man pages (requires app-text/asciidoc)
+x11-misc/picom-jonaburg:drm - Enable support for using drm for vsync
+x11-misc/picom-jonaburg:opengl - Enable features that require opengl (opengl backend, and opengl vsync methods)
