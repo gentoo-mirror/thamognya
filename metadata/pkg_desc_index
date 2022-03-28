@@ -5,6 +5,7 @@ app-misc/yaf 0.0.3: Yet another system fetch that is minimal and customizable.
 mail-client/alot 0.9.1 0.10: Experimental terminal UI for net-mail/notmuch written in Python
 net-misc/freetube 0.16.0_beta: FreeTube is an open source desktop YouTube player built with privacy in mind.
 net-misc/mangaflix 0.0.1: Manga is a minimalistic line bash script that allows you to download and open a downloaded version of the manga of your choice.
+net-misc/spotifetch 9999: 
 net-p2p/qbittorrent 4.4.0-r1 4.4.1: BitTorrent client in C++ and Qt
 net-vpn/nordvpn 3.11.0.1-r1: NordVPN native client
 sys-apps/fastfetch 1.0.0 9999: Like neofetch but faster
