@@ -3,7 +3,7 @@ app-emulation/spice-vdagent 0.19.0-r1 0.21.0 0.22.1: SPICE VD Linux Guest Agent
 app-misc/yaf 0.0.3: Yet another system fetch that is minimal and customizable.
 mail-client/alot 0.9.1 0.10: Experimental terminal UI for net-mail/notmuch written in Python
 net-misc/freetube 0.16.0_beta: FreeTube is an open source desktop YouTube player built with privacy in mind.
-net-p2p/qbittorrent 4.4.0-r1 4.4.1-r1: BitTorrent client in C++ and Qt
+net-p2p/qbittorrent 4.4.0-r1 4.4.1: BitTorrent client in C++ and Qt
 sys-apps/fastfetch 1.0.0 9999: Like neofetch but faster
 sys-firmware/edk2-ovmf 202105-r1 202105-r2 202202-r1 202202-r2: UEFI firmware for 64-bit x86 virtual machines
 x11-misc/picom-jonaburg 9999: A lightweight compositor for X11 (previously a compton fork)
