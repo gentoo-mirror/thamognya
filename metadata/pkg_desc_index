@@ -12,3 +12,4 @@ sys-apps/fastfetch 1.0.0 9999: Like neofetch but faster
 sys-firmware/edk2-ovmf 202105-r1 202105-r2 202202-r1 202202-r2: UEFI firmware for 64-bit x86 virtual machines
 x11-misc/picom-jonaburg 9999: A lightweight compositor for X11 (previously a compton fork)
 x11-terms/cool-retro-term 1.1.1-r2 1.2.0 9999: terminal emulator which mimics the look and feel of the old cathode tube screens
+x11-wm/qpwm 0.5 9999: terminal emulator which mimics the look and feel of the old cathode tube screens
