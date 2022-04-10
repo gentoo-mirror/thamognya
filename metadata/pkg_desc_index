@@ -1,5 +1,6 @@
 acct-group/nordvpn 0: System group: nordvpn
 app-admin/doas 6.8.1-r1 6.8.2: Run commands as super/another user (alt sudo) (unofficial port from OpenBSD)
+app-containers/docker-compose 2.3.3-r2 2.4.1: Multi-container orchestration for Docker
 app-emulation/spice-protocol 0.14.3 0.14.4: Headers defining the SPICE protocol
 app-emulation/spice-vdagent 0.19.0-r1 0.21.0 0.22.1: SPICE VD Linux Guest Agent
 app-emulation/spike 1.0.0 9999: The RISC-V ISA Simulator
