@@ -3,6 +3,11 @@
 # * generated automatically using pmaint *
 
 app-admin/doas:persist - Adds support for "persist" feature (experimental)
+sci-mathematics/octave:glpk - Add support for sci-mathematics/glpk for linear programming
+sci-mathematics/octave:qhull - Add support for media-libs/qhull, to allow `delaunay', `convhull', and related functions
+sci-mathematics/octave:qrupdate - Add support for sci-libs/qrupdatefor QR and Cholesky update functions
+sci-mathematics/octave:sparse - Add enhanced support for sparse matrix algebra with SuiteSparse
+sci-mathematics/octave:sundials - Enable the ode15i and ode15s ODE solvers using sci-libs/sundials
 sys-apps/fastfetch:pci - Enables reading GPU via sys-apps/pciutils
 sys-apps/fastfetch:vulkan - Enables reading GPU via media-libs/vulkan-loader
 sys-apps/fastfetch:xfce - Enables support for XFCE config
