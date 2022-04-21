@@ -11,7 +11,7 @@ net-misc/mangaflix 0.0.1: Manga is a minimalistic line bash script that allows y
 net-misc/spotifetch 9999: 
 net-p2p/qbittorrent 4.4.0-r1 4.4.1: BitTorrent client in C++ and Qt
 net-vpn/nordvpn 3.11.0.1-r1: NordVPN native client
-sci-mathematics/octave 6.4.0-r1 7.1.0: High-level interactive language for numerical computations
+sci-mathematics/octave 6.4.0-r1: High-level interactive language for numerical computations
 sys-apps/fastfetch 1.0.0 9999: Like neofetch but faster
 sys-firmware/edk2-ovmf 202105-r1 202105-r2 202202-r1 202202-r2: UEFI firmware for 64-bit x86 virtual machines
 x11-misc/picom-jonaburg 9999: A lightweight compositor for X11 (previously a compton fork)
