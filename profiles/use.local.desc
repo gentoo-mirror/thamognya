@@ -3,6 +3,7 @@
 # * generated automatically using pmaint *
 
 app-admin/doas:persist - Adds support for "persist" feature (experimental)
+app-emulation/vagrant:virtualbox - Use VirtualBox provider.
 sci-mathematics/octave:glpk - Add support for sci-mathematics/glpk for linear programming
 sci-mathematics/octave:qhull - Add support for media-libs/qhull, to allow `delaunay', `convhull', and related functions
 sci-mathematics/octave:qrupdate - Add support for sci-libs/qrupdatefor QR and Cholesky update functions

@@ -4,6 +4,7 @@ app-containers/docker-compose 2.3.3-r2 2.4.1: Multi-container orchestration for 
 app-emulation/spice-protocol 0.14.3 0.14.4: Headers defining the SPICE protocol
 app-emulation/spice-vdagent 0.19.0-r1 0.21.0 0.22.1: SPICE VD Linux Guest Agent
 app-emulation/spike 1.0.0 9999: The RISC-V ISA Simulator
+app-emulation/vagrant 2.2.18-r1 2.2.19: A tool for building and distributing development environments
 app-misc/draw 0.1.1: 
 app-misc/yaf 0.0.3: Yet another system fetch that is minimal and customizable.
 mail-client/alot 0.9.1 0.10: Experimental terminal UI for net-mail/notmuch written in Python
