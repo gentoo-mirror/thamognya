@@ -10,4 +10,4 @@ RDEPEND=dev-qt/qtdeclarative:5[localstorage] dev-qt/qtgraphicaleffects:5 dev-qt/
 SLOT=0
 SRC_URI=https://github.com/Swordfish90/cool-retro-term/archive/1.2.0.tar.gz -> cool-retro-term-1.2.0.tar.gz https://github.com/Swordfish90/qmltermwidget/archive/0.2.0.tar.gz -> qmltermwidget-0.2.0.tar.gz
 _eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4a33c9008e5ee30cb8840a3fdc24df2b	qmake-utils	f5eb2f69fffe94292aaaf802fb21c8d1	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
-_md5_=a68f37fac6c544a91be8164d3d24ed9f
+_md5_=79b8f01bf32bf43d6192db7f0c9eaf9f
