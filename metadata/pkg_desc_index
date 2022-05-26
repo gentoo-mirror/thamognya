@@ -10,6 +10,7 @@ app-misc/terminal-colors 2.3 3.0.1 3.0.2 9999: A tool to display color charts fo
 app-misc/yaf 0.0.3: Yet another system fetch that is minimal and customizable.
 dev-libs/libcs50 10.1.1 9999: CS50 Library for C
 mail-client/alot 0.9.1 0.10: Experimental terminal UI for net-mail/notmuch written in Python
+net-analyzer/wireshark 3.4.11 3.6.2 3.6.3 3.6.5 9999: A network protocol analyzer formerly known as ethereal
 net-fs/sshfs 3.7.0 3.7.1 3.7.2 9999: Fuse-filesystem utilizing the sftp service
 net-misc/freetube 0.16.0_beta: FreeTube is an open source desktop YouTube player built with privacy in mind.
 net-misc/mangaflix 0.0.1: Manga is a minimalistic line bash script that allows you to download and open a downloaded version of the manga of your choice.
