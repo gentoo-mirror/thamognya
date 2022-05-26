@@ -22,6 +22,7 @@ sci-mathematics/octave 6.4.0-r2 7.1.0: High-level interactive language for numer
 sci-physics/bullet 3.21 3.22b: Continuous Collision Detection and Physics Library
 sys-apps/fastfetch 1.0.0 9999: Like neofetch but faster
 sys-firmware/edk2-ovmf 202105-r1 202105-r2 202202-r1 202202-r2: UEFI firmware for 64-bit x86 virtual machines
+www-apps/gitea 1.16.7 1.16.8 9999: A painless self-hosted Git service
 x11-misc/picom-jonaburg 9999: A lightweight compositor for X11 (previously a compton fork)
 x11-terms/cool-retro-term 1.1.1-r2 1.2.0: terminal emulator which mimics the look and feel of the old cathode tube screens
 x11-wm/qpwm 0.5 9999: A quite powerful window manager for X

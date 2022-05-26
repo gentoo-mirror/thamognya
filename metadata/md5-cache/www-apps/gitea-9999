@@ -1,0 +1,16 @@
+BDEPEND=>=dev-lang/go-1.16 app-arch/unzip virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install postinst prepare unpack
+DEPEND=acct? ( acct-group/git acct-user/git[gitea] ) pam? ( sys-libs/pam )
+DESCRIPTION=A painless self-hosted Git service
+EAPI=8
+HOMEPAGE=https://gitea.io https://github.com/go-gitea/gitea
+IDEPEND=filecaps? ( sys-libs/libcap )
+INHERIT=fcaps go-module tmpfiles systemd flag-o-matic git-r3
+IUSE=+acct pam sqlite pie +filecaps
+LICENSE=Apache-2.0 BSD BSD-2 ISC MIT MPL-2.0
+PROPERTIES=live
+RDEPEND=acct? ( acct-group/git acct-user/git[gitea] ) pam? ( sys-libs/pam ) dev-vcs/git virtual/tmpfiles
+RESTRICT=test strip
+SLOT=0
+_eclasses_=fcaps	babe6282ea5c195981bd302af1adaf3a	go-module	a13d34fe4e2996720e1ca6c53b9ea95a	tmpfiles	216aa76c3a6fcb5d893c23a0de86048f	toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85	systemd	2736b403a83f194b59b767f3b344c2c1	flag-o-matic	a500d7cc40da3de38c361e889153bdf7	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=c34ce90e908b6817194b472374d1c90c
