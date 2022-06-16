@@ -1,0 +1,8 @@
+DEFINED_PHASES=install postrm unpack
+DESCRIPTION=Wrapper for the Google cloud SDK.
+EAPI=6
+KEYWORDS=~amd64
+LICENSE=See https://cloud.google.com/terms/
+SLOT=0
+SRC_URI=https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-101.0.0-linux-x86_64.tar.gz
+_md5_=e98e72e13a38177f6c12e9bf05d3f455
