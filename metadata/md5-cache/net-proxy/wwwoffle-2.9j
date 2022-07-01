@@ -1,7 +1,7 @@
 DEFINED_PHASES=configure install postinst preinst prepare
 DEPEND=dev-lang/perl sys-devel/flex acct-group/wwwoffle acct-user/wwwoffle gnutls? ( net-libs/gnutls ) zlib? ( sys-libs/zlib )
 DESCRIPTION=Web caching proxy suitable for non-permanent Internet connections
-EAPI=7
+EAPI=8
 HOMEPAGE=https://www.gedanken.org.uk/software/wwwoffle/
 IUSE=gnutls ipv6 zlib
 KEYWORDS=~amd64 ~ppc ~ppc64 ~sparc ~x86
@@ -9,4 +9,4 @@ LICENSE=GPL-2
 RDEPEND=acct-group/wwwoffle acct-user/wwwoffle gnutls? ( net-libs/gnutls ) zlib? ( sys-libs/zlib )
 SLOT=0
 SRC_URI=https://www.gedanken.org.uk/software/wwwoffle/download/wwwoffle-2.9j.tgz
-_md5_=091c87ab1b6e27357b1d48dd4a96e30b
+_md5_=dd729662a180ea627fe2742bd76a6c6d
